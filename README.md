@@ -14,4 +14,3 @@ article.html - страница с примером статьи из блога
 ### Макет блога
 
 https://www.figma.com/design/NsD6GG3ZWD29ZWzkCMUkjU/Youtalk---Blog
-Project finalized for submission
